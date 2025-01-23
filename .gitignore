@@ -19,6 +19,7 @@ yarn-error.log
 *.launch
 .settings/
 *.sublime-workspace
+.idx
 
 # Visual Studio Code
 .vscode/*
@@ -36,16 +37,10 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
-/src/environment
 
 # System files
 .DS_Store
 Thumbs.db
-
-# Firebase
-.firebase
-*-debug.log
-.runtimeconfig.json
 
 # Nx
 .nx
